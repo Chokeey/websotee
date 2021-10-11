@@ -20,7 +20,7 @@ function onLoad() {
         walletconnect: {
             package: WalletConnectProvider,
             options: {
-                infuraId: "8043bb2cf99347b1bfadfb233c5325c0",
+                infuraId: "d85fda7b424b4212ba72f828f48fbbe1",
             }
         }
     };
